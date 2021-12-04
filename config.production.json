@@ -1,0 +1,6 @@
+{
+  "Username":"put_name",
+  "Password": "put_password",
+  "Database": "azimio",
+  "Host": "127.0.0.1"
+}
